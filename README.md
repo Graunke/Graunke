@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My Sociasl
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=X&logoColor=white)]((https://x.com/yM9vo5R0ukSysJr))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=LinkedIn&logoColor=white)]((https://www.linkedin.com/in/mateus-uriel-graunke-barroso-74b7a1230/))
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/mateusurielbarroso/)
