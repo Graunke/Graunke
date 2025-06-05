@@ -1,6 +1,10 @@
+<div align="center">
+ 
 # Hi there 👋
 
- Im doing some projects for the Master's degree that may be helpful for someone. The main focus of the repos are Computer Vision (CV) and general Artificial Inteligence (AI) aplications <br><br> Fell free to point if you see oportunity of imporovement <br><br>
+</div>
+
+Im doing some projects for the Master's degree that may be helpful for someone. The main focus of the repos are Computer Vision (CV) and general Artificial Inteligence (AI) aplications <br><br> Fell free to point if you see oportunity of imporovement <br><br>
 
 <div align="center">
   
