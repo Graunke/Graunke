@@ -1,5 +1,6 @@
 # Hi there 👋
 
+## Im doing some projects for the Masters graduation that may be helpful for someone.
 <!--
 **Graunke/Graunke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
