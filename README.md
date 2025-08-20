@@ -8,7 +8,7 @@ Im doing some projects for the Master's degree that may be helpful for someone. 
 
 <div align="center">
   
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=X&logoColor=white)](([https://x.com/yM9vo5R0ukSysJr](https://x.com/lvl18apmalphite)))&nbsp;&nbsp;
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=X&logoColor=white)](https://x.com/lvl18apmalphite)&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mateus-uriel-graunke-barroso-74b7a1230/)&nbsp;&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/mateusurielbarroso/)
 
